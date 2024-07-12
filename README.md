@@ -1,5 +1,5 @@
 ## My name is Stepan Tarabanovskiy, and i am a programmer.
-<img src="![image](https://github.com/user-attachments/assets/24e2cd80-2e58-4110-a7cc-9facc5f67dd7)" width="200" height="200">
+<img src="![image](https://github.com/user-attachments/assets/24e2cd80-2e58-4110-a7cc-9facc5f67dd7)">
 <img src="http://url.to/image.png" width="200" height="200">
 
 
