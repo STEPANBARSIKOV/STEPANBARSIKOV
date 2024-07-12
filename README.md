@@ -1,4 +1,8 @@
-## Hi there 👋
+## My name is Stepan Tarabanovskiy, and i am a programmer.
+![python](https://ibb.co/BB37wFq)
+![pytest](https://ibb.co/wYSyzD8)
+
+
 
 <!--
 **STEPANBARSIKOV/STEPANBARSIKOV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
