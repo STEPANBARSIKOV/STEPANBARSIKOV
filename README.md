@@ -1,5 +1,5 @@
 ## My name is Stepan Tarabanovskiy, and i am a programmer.
-![python](https://clipart-library.com/new_gallery/289-2896071_python-logo-png-165709.png)
+![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png)
 ![pytest](https://ibb.co/wYSyzD8)
 
 
