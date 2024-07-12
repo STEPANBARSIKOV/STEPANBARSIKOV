@@ -1,6 +1,6 @@
 ## My name is Stepan Tarabanovskiy, and i am a programmer.
-![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png)
-![pytest](https://ibb.co/wYSyzD8)
+<img src="[http://url.to/image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png)" width="200" height="200">
+<img src="http://url.to/image.png" width="200" height="200">
 
 
 
