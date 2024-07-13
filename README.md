@@ -1,5 +1,6 @@
 ## My name is Stepan Tarabanovskiy, and i am a programmer.
 ![python](https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png)
+<img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" width="10%" height="10%" alt="Винни-Пух"></p>
 ![pytest](https://bruhin.software/img/logos/pytest.svg)
 
 
